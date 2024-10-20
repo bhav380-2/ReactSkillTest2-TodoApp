@@ -71,3 +71,8 @@ A simple Todo List application built with React, Redux, and async Thunk for stat
 - **Toggle Completion**: 
   - Click the checkbox next to the todo item to mark it as completed.
 
+
+
+## Hosted Link
+https://bhav380-2.github.io/ReactSkillTest2-TodoApp/
+
