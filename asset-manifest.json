@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactSkillTest2-TodoApp/static/css/main.d6a76d2e.css",
+    "main.js": "/ReactSkillTest2-TodoApp/static/js/main.22a56291.js",
+    "index.html": "/ReactSkillTest2-TodoApp/index.html",
+    "main.d6a76d2e.css.map": "/ReactSkillTest2-TodoApp/static/css/main.d6a76d2e.css.map",
+    "main.22a56291.js.map": "/ReactSkillTest2-TodoApp/static/js/main.22a56291.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6a76d2e.css",
+    "static/js/main.22a56291.js"
+  ]
+}
